@@ -230,7 +230,7 @@ class CurrencyRepository implements CurrencyRepositoryInterface
             'HNL' => ['340', 2],
             'HRK' => ['191', 2],
             'HTG' => ['332', 2],
-            'HUF' => ['348', 2],
+            'HUF' => ['348', 0],
             'IDR' => ['360', 2],
             'ILS' => ['376', 2],
             'INR' => ['356', 2],
